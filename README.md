@@ -139,12 +139,14 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
-![alt text](<Screenshot 2025-05-22 215444.png>)
+
+![Screenshot 2025-05-22 215432](https://github.com/user-attachments/assets/13935beb-246a-4122-8b33-c5d427c0ec3e)
 
 
 ## HOMEPAGE:
 
-![alt text](<Screenshot 2025-05-22 215444.png>)
+![Screenshot 2025-05-22 215502](https://github.com/user-attachments/assets/129de1e9-849c-4581-a31a-4d05c7ab8455)
+
 
 
 ## RESULT:
